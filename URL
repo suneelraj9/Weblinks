@@ -5,6 +5,14 @@ Technical
        http://mirror.us.leaseweb.ne
     >> JVM Options COnfiguration tool
        https://access.redhat.com/labs/jvmconfig/
+       
+    KM:
+       >> rollbacks and cleanup after upgrading RHEL 6 to RHEL 7
+          https://access.redhat.com/solutions/3534561
+       >> Supported used cases upgrade to RHEL 7
+          https://access.redhat.com/solutions/799813
+       >> upgrade from Red Hat Enterprise Linux 6 to Red Hat Enterprise Linux 7
+          https://access.redhat.com/solutions/637583
   Learn
     >> Interactive session
        https://www.katacoda.com/learn
