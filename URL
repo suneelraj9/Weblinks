@@ -16,7 +16,10 @@ Technical
        >> Unexpected Server Reboots
           https://access.redhat.com/articles/206873  
        >> find the FC ID (WWN) of a scsi device/LUN [[[Most Interesting Article]]]   
-          https://access.redhat.com/articles/17054
+          https://access.redhat.com/articles/17054   
+       >> Memory management questions
+          https://access.redhat.com/solutions/58689
+       
         
   Learn
     >> Interactive session
